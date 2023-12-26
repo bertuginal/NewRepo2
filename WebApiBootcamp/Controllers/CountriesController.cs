@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace WebApiBootcamp.Controllers
 {
-    [Route("{api/[controller]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class CountriesController : Controller
     {

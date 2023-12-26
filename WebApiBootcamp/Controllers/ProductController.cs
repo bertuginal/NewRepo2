@@ -3,7 +3,7 @@ using WebApiBootcamp.Models;
 
 namespace WebApiBootcamp.Controllers
 {
-    [Route("{api/[controller]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class ProductController : ControllerBase
     {
