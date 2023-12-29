@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using WebApiBootcamp.Models.ORM;
 
 namespace WebApiBootcamp.Models.ORM
 {

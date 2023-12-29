@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace TechCareerWebApiTutorial.Models.ORM
+namespace WebApiBootcamp.Models.ORM
 {
     public class Author : BaseModel
     {
